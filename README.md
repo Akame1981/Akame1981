@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 
+#Contacts :
+[<img src="https://img.shields.io/github/followers/Akame1981?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Akame1981) 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/om_m_yt)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fartexofficial@gmail.com)
+
 <div size='20px'> Hi! My name is Oktay. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
