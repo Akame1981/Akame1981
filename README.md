@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Akame1981/Akame1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -16,4 +15,4 @@
 - 💬 Ask me about Sql, Java, C#, JavaScript
   
 - ⚡ Fun fact: Me gustan los girasoles.
--->
+
