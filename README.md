@@ -39,8 +39,8 @@
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+<img src="https://img.shields.io/badge/Atom-darkgreen?style=for-the-badge&logo=Atom&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=VisualStudio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <h4> Operating System </h4>
