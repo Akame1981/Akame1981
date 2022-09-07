@@ -2,6 +2,8 @@
 
 
 <h1>Contacts :</h1>
+
+
 [<img src="https://img.shields.io/github/followers/Akame1981?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Akame1981) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/om_m_yt)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fartexofficial@gmail.com)
