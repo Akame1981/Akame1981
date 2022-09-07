@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently studying IT in <a href="https://www.codingburgas.bg/">ПГКПИ</a>
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently learning Git, C++
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking for friends :D
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Ask me about C#, JS and PHP
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Fun fact: I have life outside PC.
 
