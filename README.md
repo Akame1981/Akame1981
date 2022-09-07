@@ -7,7 +7,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying IT in <a href="https://www.codingburgas.bg/"><h1>ПГКПИ</h1></a>
+- 🔭 I’m currently studying IT in <a href="https://www.codingburgas.bg/"><h6>ПГКПИ</h6></a>
   
 - 🌱 I’m currently learning Git, Java y GitHub
   
