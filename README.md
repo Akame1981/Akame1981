@@ -74,7 +74,7 @@
 Here are some of the certificates I’ve earned from SoftUni 🎓💻
 
 [![Programming Basics](https://img.shields.io/badge/C%23-Basics-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](http://softuni.bg/certificates/details/230379/a12265a5)  
-[![C# Fundamentals - Softuni](https://img.shields.io/badge/OOP-Basics-green?style=for-the-badge&logo=dotnet&logoColor=white)](https://softuni.bg/certificates/details/239917/3889b80e)  
-[![c# Advanced](https://img.shields.io/badge/Python-Basics-yellow?style=for-the-badge&logo=python&logoColor=white)](https://softuni.bg/certificates/details/245115/1985a578)
+[![C# Fundamentals - Softuni](https://img.shields.io/badge/C%23-Basics-blue?style=for-the-badge&logo=c-sharp&logoColor=white))](https://softuni.bg/certificates/details/239917/3889b80e)  
+[![c# Advanced](https://img.shields.io/badge/C%23-Basics-blue?style=for-the-badge&logo=c-sharp&logoColor=white))](https://softuni.bg/certificates/details/245115/1985a578)
 
 > 🎯 More certificates coming soon!
