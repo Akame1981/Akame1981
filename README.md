@@ -82,5 +82,5 @@ Here are some of the certificates I’ve earned from SoftUni 🎓💻
 > 🎯 More certificates coming soon!
 
 
-Hackaton 2025 Project
+Hackaton 2025 Project ( I didn't commit there cuz i was using friends pc, check Teams in the readme)
 https://github.com/Code-Of-The-Future-Hackathon/code-of-the-future-25-chaykajs
