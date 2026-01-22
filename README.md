@@ -81,7 +81,8 @@ Here are some of the certificates I’ve earned from SoftUni 🎓💻
 
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](https://softuni.bg/certificates/details/250932/448c1c14)
 
-[![Entity Framework Core](https://img.shields.io/badge/C%23-Advanced-red?style=for-the-badge&logo=c-sharp&logoColor=white)](https://softuni.bg/certificates/details/255088/62167ec8)
+[![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-red?style=for-the-badge&logo=dotnet&logoColor=white)](https://softuni.bg/certificates/details/255088/62167ec8)
+
 
 > 🎯 More certificates coming soon!
 
