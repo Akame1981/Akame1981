@@ -17,9 +17,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying IT in <a href="https://softuni.bg/">SoftUni</a>
+- 🔭 I’m currently applying to universities for CS Major
   
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning arduino.
   
 - 👯 I’m looking for a job :D
   
@@ -76,12 +76,13 @@ Here are some of the certificates I’ve earned from SoftUni 🎓💻
 [![Programming Basics](https://img.shields.io/badge/C%23-Basics-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](http://softuni.bg/certificates/details/230379/a12265a5)  
 [![C# Fundamentals - SoftUni](https://img.shields.io/badge/C%23-Fundamentals-green?style=for-the-badge&logo=c-sharp&logoColor=white)](https://softuni.bg/certificates/details/239917/3889b80e)  
 [![C# Advanced](https://img.shields.io/badge/C%23-Advanced-red?style=for-the-badge&logo=c-sharp&logoColor=white)](https://softuni.bg/certificates/details/245115/1985a578)
-
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](https://softuni.bg/certificates/details/250932/448c1c14)
+[![Entity Framework Core](https://img.shields.io/badge/C%23-Advanced-red?style=for-the-badge&logo=c-sharp&logoColor=white)](https://softuni.bg/certificates/details/255088/62167ec8)
 > 💡 Currently enrolled in **C# Database** at SoftUni  
 
 > 🎯 More certificates coming soon!
 
 
-Hackaton 2025 Project ( I didn't commit there cuz i was using friends pc, check Teams in the readme)
+Hackaton 2025 Project ( I couldn't commit there because i was using a friends pc, that had problems with the internet but I did the whole front-end, check Teams in the readme)
 
 https://github.com/Code-Of-The-Future-Hackathon/code-of-the-future-25-chaykajs
